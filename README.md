@@ -22,7 +22,7 @@ This project implements a simple Perceptron-based binary classifier to detect sp
 
 1. Clone the repository:
 
-   git clone https://example.com/your-repo.git
+   git clone https://github.com/mateusmpbr/ClassificacaoSpamComPerceptron.git
    cd ClassificacaoSpamComPerceptron
 
 2. (Optional) Create and activate a virtual environment:
